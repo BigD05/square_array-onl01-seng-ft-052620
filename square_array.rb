@@ -1,3 +1,9 @@
 def square_array(array)
-  # your code here
+  new_numbers = []
+  array.each do |num|
+    num 
+    new_numbers.push(num)
+    
+  end
+  new_numbers
 end
